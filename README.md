@@ -12,7 +12,7 @@
 </h2>
 <!--- Snake Graph --->
 <p align="center">
-<img src="https://github.com/arratiabenjamin/arratiabenjamin/raw/output/github-contribution-grid-snake.svg" alt="snake-graph" style="max-width: 100%;">
+<img src="https://github.com/arratiabenjamin/arratiabenjamin/blob/main/raw/output/github-contribution-grid-snake.svg" alt="snake-graph" style="max-width: 100%;">
 </p>
 <br>
 <br>
